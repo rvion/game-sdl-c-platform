@@ -1,0 +1,415 @@
+Fichier MAP.ini ouvert avec succes
+Fichier nettoye :
+
+
+SQUARE - origin_x : Liste Vide
+SQUARE - origin_y : Liste Vide
+SQUARE - side : Liste Vide
+SQUARE - type : Liste Vide
+SQUARE - solid : Liste Vide
+Nombre de square = 0
+
+GRAVITY - grav_vx : OK --> [1] 0.02  
+GRAVITY - grav_vy : OK --> [1] -3.00  
+GRAVITY - grav_x1 : OK --> [1] 0.00  
+GRAVITY - grav_y1 : OK --> [1] 1900.00  
+GRAVITY - grav_x2 : OK --> [1] 5000.00  
+GRAVITY - grav_y2 : OK --> [1] 5000.00  
+PIECES - pieces_x : OK --> [12] 100.00  100.00  100.00  200.00  200.00  300.00  400.00  500.00  600.00  700.00  800.00  900.00  
+PIECES - pieces_y : OK --> [12] 15.00  100.00  22.00  450.00  86.00  123.00  740.00  200.00  2000.00  2500.00  2330.00  4568.00  
+CIRCLE - origin_x : Liste Vide
+CIRCLE - origin_y : Liste Vide
+CIRCLE - radius : Liste Vide
+CIRCLE - type : Liste Vide
+CIRCLE - solid : Liste Vide
+Nombre de circles = 0
+
+POLY0 - name : Parametre inexistant
+POLY0 - lib : Parametre inexistant
+Chargement direct depuis la map
+POLY0 - point_x : OK --> [15] 160.00  128.00  128.00  704.00  832.00  864.00  768.00  736.00  768.00  768.00  704.00  576.00  512.00  416.00  256.00  
+POLY0 - point_y : OK --> [15] 416.00  416.00  480.00  512.00  384.00  224.00  192.00  288.00  288.00  320.00  416.00  416.00  384.00  448.00  448.00  
+    Nb Points : 15
+POLY0 - solid : OK --> 1.00
+POLY0 - type : OK --> 2.00
+POLY0 - bounce : OK --> 0.00
+POLY0 - alpha : OK --> 150.00
+POLY0 - decor : OK --> 0.00
+POLY0 - precalculated_triangles : OK --> 0.00
+triangulation done: 13 triangles
+POLY0 - precalculated_bornes : OK --> 0.00
+Bornes calculees
+POLY0 - origin_x : Parametre inexistant
+POLY0 - origin_y : Parametre inexistant
+(realloc..done)
+POLY0 - absolute : OK --> 1.00
+
+
+POLY1 - name : OK --> TEST
+POLY1 - lib : Parametre inexistant
+Chargement direct depuis la map
+POLY1 - point_x : OK --> [27] 960.00  768.00  640.00  512.00  576.00  640.00  608.00  768.00  864.00  736.00  736.00  704.00  896.00  1056.00  1088.00  1024.00  960.00  960.00  992.00  1152.00  1120.00  1056.00  960.00  928.00  992.00  1056.00  1024.00  
+POLY1 - point_y : OK --> [27] 352.00  704.00  736.00  800.00  864.00  896.00  992.00  1056.00  992.00  960.00  896.00  832.00  736.00  800.00  736.00  704.00  672.00  608.00  576.00  544.00  480.00  512.00  544.00  512.00  448.00  416.00  384.00  
+    Nb Points : 27
+POLY1 - solid : OK --> 1.00
+POLY1 - type : OK --> 1.00
+POLY1 - bounce : OK --> 0.00
+POLY1 - alpha : OK --> 150.00
+POLY1 - decor : OK --> 0.00
+POLY1 - precalculated_triangles : OK --> 0.00
+triangulation done: 25 triangles
+POLY1 - precalculated_bornes : OK --> 0.00
+Bornes calculees
+POLY1 - origin_x : Parametre inexistant
+POLY1 - origin_y : Parametre inexistant
+(realloc..done)
+POLY1 - absolute : OK --> 1.00
+
+
+POLY2 - name : OK --> TEST
+POLY2 - lib : Parametre inexistant
+Chargement direct depuis la map
+POLY2 - point_x : OK --> [18] 1088.00  1184.00  1792.00  1856.00  1920.00  1792.00  1536.00  1440.00  1600.00  1728.00  1632.00  1760.00  1792.00  1664.00  1600.00  1344.00  1216.00  1184.00  
+POLY2 - point_y : OK --> [18] 928.00  1152.00  864.00  640.00  288.00  160.00  96.00  192.00  288.00  256.00  192.00  224.00  384.00  576.00  832.00  928.00  992.00  896.00  
+    Nb Points : 18
+POLY2 - solid : OK --> 1.00
+POLY2 - type : OK --> 1.00
+POLY2 - bounce : OK --> 0.00
+POLY2 - alpha : OK --> 20.00
+POLY2 - decor : OK --> 0.00
+POLY2 - precalculated_triangles : OK --> 0.00
+triangulation done: 16 triangles
+POLY2 - precalculated_bornes : OK --> 0.00
+Bornes calculees
+POLY2 - origin_x : Parametre inexistant
+POLY2 - origin_y : Parametre inexistant
+(realloc..done)
+POLY2 - absolute : OK --> 1.00
+
+
+POLY3 - name : OK --> TEST
+POLY3 - lib : Parametre inexistant
+Chargement direct depuis la map
+POLY3 - point_x : OK --> [4] 1344.00  1248.00  1312.00  1408.00  
+POLY3 - point_y : OK --> [4] 512.00  576.00  704.00  640.00  
+    Nb Points : 4
+POLY3 - solid : OK --> 1.00
+POLY3 - type : OK --> 1.00
+POLY3 - bounce : OK --> 0.00
+POLY3 - alpha : Parametre inexistant --> Default : 255.00
+POLY3 - decor : Parametre inexistant --> Default : 0.00
+POLY3 - precalculated_triangles : OK --> 0.00
+triangulation done: 2 triangles
+POLY3 - precalculated_bornes : OK --> 0.00
+Bornes calculees
+POLY3 - origin_x : Parametre inexistant
+POLY3 - origin_y : Parametre inexistant
+(realloc..done)
+POLY3 - absolute : OK --> 1.00
+
+
+POLY4 - name : OK --> TEST
+POLY4 - lib : Parametre inexistant
+Chargement direct depuis la map
+POLY4 - point_x : OK --> [4] 1536.00  1504.00  1568.00  1632.00  
+POLY4 - point_y : OK --> [4] 384.00  480.00  512.00  448.00  
+    Nb Points : 4
+POLY4 - solid : OK --> 1.00
+POLY4 - type : OK --> 1.00
+POLY4 - bounce : OK --> 0.00
+POLY4 - alpha : Parametre inexistant --> Default : 255.00
+POLY4 - decor : Parametre inexistant --> Default : 0.00
+POLY4 - precalculated_triangles : OK --> 0.00
+triangulation done: 2 triangles
+POLY4 - precalculated_bornes : OK --> 0.00
+Bornes calculees
+POLY4 - origin_x : Parametre inexistant
+POLY4 - origin_y : Parametre inexistant
+(realloc..done)
+POLY4 - absolute : OK --> 1.00
+
+
+POLY5 - name : OK --> TEST
+POLY5 - lib : Parametre inexistant
+Chargement direct depuis la map
+POLY5 - point_x : OK --> [4] 1216.00  1184.00  1280.00  1344.00  
+POLY5 - point_y : OK --> [4] 224.00  320.00  384.00  320.00  
+    Nb Points : 4
+POLY5 - solid : OK --> 1.00
+POLY5 - type : OK --> 1.00
+POLY5 - bounce : OK --> 0.00
+POLY5 - alpha : Parametre inexistant --> Default : 255.00
+POLY5 - decor : Parametre inexistant --> Default : 0.00
+POLY5 - precalculated_triangles : OK --> 0.00
+triangulation done: 2 triangles
+POLY5 - precalculated_bornes : OK --> 0.00
+Bornes calculees
+POLY5 - origin_x : Parametre inexistant
+POLY5 - origin_y : Parametre inexistant
+(realloc..done)
+POLY5 - absolute : OK --> 1.00
+
+
+POLY6 - name : OK --> TEST
+POLY6 - lib : Parametre inexistant
+Chargement direct depuis la map
+POLY6 - point_x : OK --> [3] 32.00  128.00  352.00  
+POLY6 - point_y : OK --> [3] 800.00  1024.00  992.00  
+    Nb Points : 3
+POLY6 - solid : OK --> 1.00
+POLY6 - type : OK --> 1.00
+POLY6 - bounce : OK --> 0.00
+POLY6 - alpha : Parametre inexistant --> Default : 255.00
+POLY6 - decor : Parametre inexistant --> Default : 0.00
+POLY6 - precalculated_triangles : OK --> 0.00
+triangulation done: 1 triangles
+POLY6 - precalculated_bornes : OK --> 0.00
+Bornes calculees
+POLY6 - origin_x : Parametre inexistant
+POLY6 - origin_y : Parametre inexistant
+(realloc..done)
+POLY6 - absolute : OK --> 1.00
+
+
+POLY7 - name : OK --> TEST
+POLY7 - lib : Parametre inexistant
+Chargement direct depuis la map
+POLY7 - point_x : OK --> [3] 352.00  448.00  576.00  
+POLY7 - point_y : OK --> [3] 1152.00  1248.00  1184.00  
+    Nb Points : 3
+POLY7 - solid : OK --> 1.00
+POLY7 - type : OK --> 1.00
+POLY7 - bounce : OK --> 0.00
+POLY7 - alpha : Parametre inexistant --> Default : 255.00
+POLY7 - decor : Parametre inexistant --> Default : 0.00
+POLY7 - precalculated_triangles : OK --> 0.00
+triangulation done: 1 triangles
+POLY7 - precalculated_bornes : OK --> 0.00
+Bornes calculees
+POLY7 - origin_x : Parametre inexistant
+POLY7 - origin_y : Parametre inexistant
+(realloc..done)
+POLY7 - absolute : OK --> 1.00
+
+
+POLY8 - name : OK --> TEST
+POLY8 - lib : Parametre inexistant
+Chargement direct depuis la map
+POLY8 - point_x : OK --> [3] 256.00  256.00  352.00  
+POLY8 - point_y : OK --> [3] 1152.00  1280.00  1312.00  
+    Nb Points : 3
+POLY8 - solid : OK --> 1.00
+POLY8 - type : OK --> 1.00
+POLY8 - bounce : OK --> 0.00
+POLY8 - alpha : Parametre inexistant --> Default : 255.00
+POLY8 - decor : Parametre inexistant --> Default : 0.00
+POLY8 - precalculated_triangles : OK --> 0.00
+triangulation done: 1 triangles
+POLY8 - precalculated_bornes : OK --> 0.00
+Bornes calculees
+POLY8 - origin_x : Parametre inexistant
+POLY8 - origin_y : Parametre inexistant
+(realloc..done)
+POLY8 - absolute : OK --> 1.00
+
+
+POLY9 - name : OK --> TEST
+POLY9 - lib : Parametre inexistant
+Chargement direct depuis la map
+POLY9 - point_x : OK --> [3] 800.00  672.00  800.00  
+POLY9 - point_y : OK --> [3] 1184.00  1344.00  1312.00  
+    Nb Points : 3
+POLY9 - solid : OK --> 1.00
+POLY9 - type : OK --> 1.00
+POLY9 - bounce : OK --> 0.00
+POLY9 - alpha : Parametre inexistant --> Default : 255.00
+POLY9 - decor : Parametre inexistant --> Default : 0.00
+POLY9 - precalculated_triangles : OK --> 0.00
+triangulation done: 1 triangles
+POLY9 - precalculated_bornes : OK --> 0.00
+Bornes calculees
+POLY9 - origin_x : Parametre inexistant
+POLY9 - origin_y : Parametre inexistant
+(realloc..done)
+POLY9 - absolute : OK --> 1.00
+
+
+POLY10 - name : OK --> TEST
+POLY10 - lib : Parametre inexistant
+Chargement direct depuis la map
+POLY10 - point_x : OK --> [18] 320.00  384.00  992.00  2048.00  2080.00  2112.00  2016.00  1920.00  1888.00  1792.00  1600.00  1600.00  1472.00  1440.00  1120.00  960.00  832.00  768.00  
+POLY10 - point_y : OK --> [18] 1600.00  1664.00  1568.00  1248.00  1088.00  928.00  896.00  928.00  1120.00  1248.00  1216.00  1312.00  1280.00  1344.00  1344.00  1504.00  1472.00  1536.00  
+    Nb Points : 18
+POLY10 - solid : OK --> 1.00
+POLY10 - type : OK --> 1.00
+POLY10 - bounce : OK --> 0.00
+POLY10 - alpha : Parametre inexistant --> Default : 255.00
+POLY10 - decor : Parametre inexistant --> Default : 0.00
+POLY10 - precalculated_triangles : OK --> 0.00
+triangulation done: 16 triangles
+POLY10 - precalculated_bornes : OK --> 0.00
+Bornes calculees
+POLY10 - origin_x : Parametre inexistant
+POLY10 - origin_y : Parametre inexistant
+(realloc..done)
+POLY10 - absolute : OK --> 1.00
+
+
+POLY11 - name : OK --> TEST
+POLY11 - lib : Parametre inexistant
+Chargement direct depuis la map
+POLY11 - point_x : OK --> [5] 64.00  128.00  256.00  192.00  96.00  
+POLY11 - point_y : OK --> [5] 1408.00  1568.00  1600.00  1472.00  1376.00  
+    Nb Points : 5
+POLY11 - solid : OK --> 1.00
+POLY11 - type : OK --> 1.00
+POLY11 - bounce : OK --> 0.00
+POLY11 - alpha : Parametre inexistant --> Default : 255.00
+POLY11 - decor : Parametre inexistant --> Default : 0.00
+POLY11 - precalculated_triangles : OK --> 0.00
+triangulation done: 3 triangles
+POLY11 - precalculated_bornes : OK --> 0.00
+Bornes calculees
+POLY11 - origin_x : Parametre inexistant
+POLY11 - origin_y : Parametre inexistant
+(realloc..done)
+POLY11 - absolute : OK --> 1.00
+
+
+POLY12 - name : OK --> TEST
+POLY12 - lib : Parametre inexistant
+Chargement direct depuis la map
+POLY12 - point_x : OK --> [3] 224.00  256.00  384.00  
+POLY12 - point_y : OK --> [3] 1664.00  1760.00  1728.00  
+    Nb Points : 3
+POLY12 - solid : OK --> 1.00
+POLY12 - type : OK --> 1.00
+POLY12 - bounce : OK --> 0.00
+POLY12 - alpha : Parametre inexistant --> Default : 255.00
+POLY12 - decor : Parametre inexistant --> Default : 0.00
+POLY12 - precalculated_triangles : OK --> 0.00
+triangulation done: 1 triangles
+POLY12 - precalculated_bornes : OK --> 0.00
+Bornes calculees
+POLY12 - origin_x : Parametre inexistant
+POLY12 - origin_y : Parametre inexistant
+(realloc..done)
+POLY12 - absolute : OK --> 1.00
+
+
+Bh - name : Parametre inexistant
+Bh - lib : Parametre inexistant
+Chargement direct depuis la map
+Bh - point_x : OK --> [4] 0.00  0.00  2500.00  2500.00  
+Bh - point_y : OK --> [4] 0.00  1.00  1.00  0.00  
+    Nb Points : 4
+Bh - solid : OK --> 1.00
+Bh - type : OK --> 1.00
+Bh - bounce : OK --> 0.00
+Bh - alpha : Parametre inexistant --> Default : 255.00
+Bh - decor : Parametre inexistant --> Default : 0.00
+Bh - precalculated_triangles : OK --> 0.00
+triangulation done: 2 triangles
+Bh - precalculated_bornes : OK --> 0.00
+Bornes calculees
+Bh - origin_x : Parametre inexistant
+Bh - origin_y : Parametre inexistant
+(realloc..done)
+Bh - absolute : OK --> 1.00
+
+
+Bg - name : Parametre inexistant
+Bg - lib : Parametre inexistant
+Chargement direct depuis la map
+Bg - point_x : OK --> [4] 0.00  0.00  1.00  1.00  
+Bg - point_y : OK --> [4] 0.00  2000.00  2000.00  0.00  
+    Nb Points : 4
+Bg - solid : OK --> 1.00
+Bg - type : OK --> 1.00
+Bg - bounce : OK --> 0.00
+Bg - alpha : Parametre inexistant --> Default : 255.00
+Bg - decor : Parametre inexistant --> Default : 0.00
+Bg - precalculated_triangles : OK --> 0.00
+triangulation done: 2 triangles
+Bg - precalculated_bornes : OK --> 0.00
+Bornes calculees
+Bg - origin_x : Parametre inexistant
+Bg - origin_y : Parametre inexistant
+(realloc..done)
+Bg - absolute : OK --> 1.00
+
+
+Bb - name : Parametre inexistant
+Bb - lib : Parametre inexistant
+Chargement direct depuis la map
+Bb - point_x : OK --> [4] 0.00  0.00  2500.00  2500.00  
+Bb - point_y : OK --> [4] 1999.00  2000.00  2000.00  1999.00  
+    Nb Points : 4
+Bb - solid : OK --> 1.00
+Bb - type : OK --> 1.00
+Bb - bounce : OK --> 0.00
+Bb - alpha : Parametre inexistant --> Default : 255.00
+Bb - decor : Parametre inexistant --> Default : 0.00
+Bb - precalculated_triangles : OK --> 0.00
+triangulation done: 2 triangles
+Bb - precalculated_bornes : OK --> 0.00
+Bornes calculees
+Bb - origin_x : Parametre inexistant
+Bb - origin_y : Parametre inexistant
+(realloc..done)
+Bb - absolute : OK --> 1.00
+
+
+Bd - name : Parametre inexistant
+Bd - lib : Parametre inexistant
+Chargement direct depuis la map
+Bd - point_x : OK --> [4] 2499.00  2499.00  2500.00  2500.00  
+Bd - point_y : OK --> [4] 0.00  2000.00  2000.00  0.00  
+    Nb Points : 4
+Bd - solid : OK --> 1.00
+Bd - type : OK --> 1.00
+Bd - bounce : OK --> 0.00
+Bd - alpha : Parametre inexistant --> Default : 255.00
+Bd - decor : Parametre inexistant --> Default : 0.00
+Bd - precalculated_triangles : OK --> 0.00
+triangulation done: 2 triangles
+Bd - precalculated_bornes : OK --> 0.00
+Bornes calculees
+Bd - origin_x : Parametre inexistant
+Bd - origin_y : Parametre inexistant
+(realloc..done)
+Bd - absolute : OK --> 1.00
+
+
+
+ TRANSFERT DES INFORMATIONS CHARGEES..
+GENERAL - grav : OK --> 0.50
+GENERAL - height : OK --> 10000.00
+GENERAL - width : OK --> 10000.00
+MAP CHARGEE !
+21.000000
+21.000000
+21.000000
+21.000000
+21.000000
+21.000000
+21.000000
+21.000000
+21.000000
+21.000000
+21.000000
+21.000000
+21.000000
+21.000000
+21.000000
+21.000000
+21.000000
+21.000000
+21.000000
+21.000000
+21.000000
+21.000000
+21.000000
+21.000000
+21.000000
+21.000000
